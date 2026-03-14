@@ -34,7 +34,7 @@ export async function POST() {
         default_installments: 1,
       },
       back_urls: {
-        success: `${process.env.APP_URL}/cadastro`,
+        success: `${process.env.APP_URL}/sucesso`,
         failure: `${process.env.APP_URL}/erro`,
         pending: `${process.env.APP_URL}/pendente`,
       },

@@ -17,6 +17,9 @@ const jost = Jost({
 export const metadata: Metadata = {
   title: 'Mistika — O Despertar',
   description: 'Em 30 dias você para de repelir homens de valor e começa a atrair relacionamentos que merece.',
+  icons: {
+    icon: 'https://curtai.online/logoIcone.png',
+  },
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
