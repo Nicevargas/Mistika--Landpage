@@ -11,7 +11,7 @@ export default function LandingPage() {
     const msgs = [
       'Não é sobre beleza, é sobre energia',
       'Domine a Arte da Conquista',
-      '10x de R$ 4,99 sem juros',
+      '10x de R$ 2,99 sem juros',
       'App de Escrita Terapêutica incluso',
       'Planner Lei da Atração de presente',
       '30 Dias de Acompanhamento Diário'
@@ -307,8 +307,8 @@ export default function LandingPage() {
               <div id="video-info-bar" class="video-info-bar" style="display:none">
                 <div style="font-size:11px;letter-spacing:1px;color:rgba(245,238,250,.25);text-decoration:line-through;margin-bottom:2px">De R$ 197,00</div>
                 <div style="display:flex;align-items:baseline;justify-content:center;gap:6px;margin-bottom:4px">
-                  <div style="font-family:var(--font-playfair),serif;font-size:clamp(36px,5vw,54px);line-height:1;color:var(--cream);font-weight:400"><sup style="font-size:.3em;vertical-align:super;color:var(--gold)">R$</sup>49<span style="font-size:.38em;color:rgba(245,238,250,.38);font-family:var(--font-jost),sans-serif;font-weight:300">,90</span></div>
-                  <div style="font-size:12px;color:rgba(245,238,250,.38)">ou 10x de <span style="color:var(--gold);font-weight:600">R$ 4,99</span></div>
+                  <div style="font-family:var(--font-playfair),serif;font-size:clamp(36px,5vw,54px);line-height:1;color:var(--cream);font-weight:400"><sup style="font-size:.3em;vertical-align:super;color:var(--gold)">R$</sup>29<span style="font-size:.38em;color:rgba(245,238,250,.38);font-family:var(--font-jost),sans-serif;font-weight:300">,90</span></div>
+                  <div style="font-size:12px;color:rgba(245,238,250,.38)">ou 10x de <span style="color:var(--gold);font-weight:600">R$ 2,99</span></div>
                 </div>
                 <div class="urgency-bar" style="margin-bottom:12px;width:100%">
                   <div class="urgency-dot"></div>
@@ -385,7 +385,7 @@ export default function LandingPage() {
           <div class="pricewrap">
             <div class="pricehead reveal"><div class="slbl">Seu investimento</div><h2>Comece hoje.<br><em>Mude para sempre.</em></h2></div>
             <div class="pcard reveal">
-              <div class="pcardtop"><div class="pey">✦ Acesso completo · Vitalício ✦</div><div class="ppwas">De R$ 197,00</div><div class="ppprice"><sup>R$</sup>49<sub>,90</sub></div><div class="psep">ou</div><div class="pparc">10x de R$ 4,99 <span>sem juros</span></div><div class="pcafe2">✦ Investimento menor que um cafezinho por mês.</div></div>
+              <div class="pcardtop"><div class="pey">✦ Acesso completo · Vitalício ✦</div><div class="ppwas">De R$ 197,00</div><div class="ppprice"><sup>R$</sup>29<sub>,90</sub></div><div class="psep">ou</div><div class="pparc">10x de R$ 2,99 <span>sem juros</span></div><div class="pcafe2">✦ Investimento menor que um cafezinho por mês.</div></div>
               <div class="pdiv"></div>
               <div class="pcinc">
                 <div class="inctitle">O que está incluso</div>
@@ -403,9 +403,9 @@ export default function LandingPage() {
           <div class="faqwrap">
             <div class="faqhead reveal"><div class="slbl">Dúvidas frequentes</div><h2>Tudo que você<br>precisa <em>saber</em></h2></div>
             <div class="fi"><button class="fq">Como funciona o acesso? <div class="fplus">+</div></button><div class="fb">Após o pagamento confirmado, você recebe acesso imediato por e-mail. O conteúdo fica disponível 24/7 no app para iOS e Android, além da versão web.</div></div>
-            <div class="fi"><button class="fq">O parcelamento tem juros? <div class="fplus">+</div></button><div class="fb">Não. Você parcela em até 10x de R$ 4,99 sem nenhum acréscimo. O valor total permanece R$ 49,90.</div></div>
+            <div class="fi"><button class="fq">O parcelamento tem juros? <div class="fplus">+</div></button><div class="fb">Não. Você parcela em até 10x de R$ 2,99 sem nenhum acréscimo. O valor total permanece R$ 29,90.</div></div>
             <div class="fi"><button class="fq">É só para mulheres solteiras? <div class="fplus">+</div></button><div class="fb">Não. O Mistika é para qualquer mulher que quer se conhecer melhor e se relacionar com mais poder — solteira, namorando ou em qualquer fase da vida.</div></div>
-            <div class="fi"><button class="fq">Os bônus estão inclusos no R$ 49,90? <div class="fplus">+</div></button><div class="fb">Sim! Todos os bônus estão inclusos no acesso principal. Tudo por R$ 49,90 à vista ou 10x de R$ 4,99.</div></div>
+            <div class="fi"><button class="fq">Os bônus estão inclusos no R$ 29,90? <div class="fplus">+</div></button><div class="fb">Sim! Todos os bônus estão inclusos no acesso principal. Tudo por R$ 29,90 à vista ou 10x de R$ 2,99.</div></div>
             <div class="fi"><button class="fq">E se eu não gostar? <div class="fplus">+</div></button><div class="fb">Você tem 30 dias de garantia incondicional. Se por qualquer motivo não ficar satisfeita, basta pedir o reembolso e devolvemos 100% do valor pago.</div></div>
           </div>
         </section>
@@ -414,7 +414,7 @@ export default function LandingPage() {
           <div class="fininner reveal">
             <div class="slbl">Última chamada</div>
             <h2>Você não precisa<br>de sorte.<br><em>Precisa de estratégia.</em></h2>
-            <p>Mais de 847 mil mulheres já iniciaram a jornada. A versão de você que atrai o que merece começa com uma decisão de R$ 4,99.</p>
+            <p>Mais de 847 mil mulheres já iniciaram a jornada. A versão de você que atrai o que merece começa com uma decisão de R$ 2,99.</p>
             <div class="finbtns">
               <button onclick="iniciarCheckout()" class="btnfin">✦ Começar Agora</button>
               <a href="#conceito" class="btnghost">Ver o que está incluso</a>

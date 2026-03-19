@@ -26,7 +26,7 @@ export async function POST() {
           description: '30 dias de acompanhamento diário + bônus exclusivos',
           quantity: 1,
           currency_id: 'BRL',
-          unit_price: 49.90,
+          unit_price: 29.90,
         },
       ],
       payment_methods: {
